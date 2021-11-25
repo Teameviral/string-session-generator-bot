@@ -16,11 +16,12 @@ from pyrogram.errors import (
 
 API_TEXT = """🙋‍♂ Hi {},
 
-I am a String Session generator bot.
+I am a end to end encrypted String Session generator bot.
 
-For generating string session send me your `API_ID` 🐿
+For generating string session send me your `API_ID` 
+Your Api id will look like `19696084` which you get from my.telegram.org or @apiscrapperbot..🐿
 """
-HASH_TEXT = "Ok Now Send your `API_HASH` to Continue.\n\nPress /cancel to Cancel.🐧"
+HASH_TEXT = '''Ok Now Send your `API_HASH` to Continue.\n\nPress /cancel to Cancel. Api_Hash will look like `95bc22f1be2ea46e4c89f665147f9b55`🐧 which you get from my.telegram.org or @apiscrapperbot..'''
 PHONE_NUMBER_TEXT = (
     "📞__ Now send your Phone number to Continue"
     " include Country code.__\n**Eg:** `+13124562345`\n\n"
@@ -232,15 +233,12 @@ __📝 Language:__ [Python3](https://www.python.org/)
 
 __🧰 Framework:__ [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-__👨‍💻 Developer:__ [𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬](https://t.me/Ns_AnoNymouS)
+__👨‍💻 Developer:__ [𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬](https://t.me/Eviral)
 
-__📢 Channel:__ [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+__📢 Channel:__ [BOT UPDATES](https://t.me/CodeTechBots)
 
-__👥 Group:__ [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
+__👥 Group:__ [SUPPORT](https://t.me/TeleTeams)
 
-__🌐 Source Code:__ [Press Me 😋](https://github.com/Ns-AnoNymouS/string-session-generator-bot)
-
-__🚀 YouTube Channel:__ [Ns Bots](https://youtube.com/channel/UC9NnqJ63aSzv457iUMM06vQ)
 """
 
     buttons = [[
