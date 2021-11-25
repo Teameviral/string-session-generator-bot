@@ -16,12 +16,13 @@ from pyrogram.errors import (
 
 API_TEXT = """🙋‍♂ Hi {},
 
-I am a end to end encrypted String Session generator bot.
+I am an end to end encrypted String Session generator bot.
 
-For generating string session send me your `API_ID` 
-Your Api id will look like `19696084` which you get from my.telegram.org or @apiscrapperbot..🐿
+For generating string session send me your `API_ID`
+
+Your Api id will look like `19696084` as default. Tap to copy and paste this if you don't have any.🐿
 """
-HASH_TEXT = '''Ok Now Send your `API_HASH` to Continue.\n\nPress /cancel to Cancel. Api_Hash will look like `95bc22f1be2ea46e4c89f665147f9b55`🐧 which you get from my.telegram.org or @apiscrapperbot..'''
+HASH_TEXT = '''Ok Now Send your `API_HASH` to Continue.\n\nPress /cancel to Cancel. API_HASH will look like `95bc22f1be2ea46e4c89f665147f9b55`🐧 Tap to copy it and you can use it as default if you don't have any.'''
 PHONE_NUMBER_TEXT = (
     "📞__ Now send your Phone number to Continue"
     " include Country code.__\n**Eg:** `+13124562345`\n\n"
